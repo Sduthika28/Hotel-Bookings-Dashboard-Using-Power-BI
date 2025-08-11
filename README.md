@@ -17,7 +17,7 @@ The dashboard provides insights into booking trends, customer loyalty, revenue, 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](Dashboardimage.png)
+![Dashboard Screenshot](Dashboard%20image.png)
 
 ---
 ## 📂 Files in This Repository
@@ -37,4 +37,5 @@ The dashboard provides insights into booking trends, customer loyalty, revenue, 
 3. **Revenue Analysis** → Total revenue, average room rate.
 4. **Booking Lead Time** → How far in advance bookings are made.
 5. **Channel Performance** → Which booking channels are most popular.
+
 
